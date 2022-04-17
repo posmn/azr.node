@@ -1,0 +1,10 @@
+{
+    "Description": '''
+Aezore masternode'''
+    Links: [
+        { 
+            website: "https://aezora.com/",
+            explorer: "https://explorer.decenomy.net/AZR/blocks/"
+        }
+    ]
+}
